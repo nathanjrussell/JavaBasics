@@ -26,7 +26,9 @@ public class Main {
         while (i <= 5) {
             System.out.println("While Count: " + i);
             i++;
+
         }
+
 
         // Using array to demonstrate for-each loop
         String[] weekDays = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
